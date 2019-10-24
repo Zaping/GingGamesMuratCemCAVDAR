@@ -1,0 +1,2 @@
+D:\Unity\MeshDeform\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Unity\MeshDeform\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
